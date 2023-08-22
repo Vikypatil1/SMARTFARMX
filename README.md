@@ -1,1 +1,2 @@
-# SMARTFARMX
+# SMARTFARMX 
+Smartfarming Solution & automation System
